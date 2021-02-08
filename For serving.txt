@@ -1,0 +1,3 @@
+1.npm run build
+2.sudo npm i -g serve
+3.serve -s build -p 8000
